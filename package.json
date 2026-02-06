@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "dotenv": "^17.2.4",
+    "ethers": "^6.16.0"
+  },
+  "name": "indraseven-project",
+  "version": "1.0.0",
+  "description": "My project in Termux uses gh-cli.",
+  "main": "check_ens.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Indraseven/Indraseven-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Indraseven/Indraseven-project/issues"
+  },
+  "homepage": "https://github.com/Indraseven/Indraseven-project#readme"
+}
